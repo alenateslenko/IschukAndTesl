@@ -1,0 +1,7 @@
+login icon    //*[@class='icon-profile']
+
+cart icon     //*[@class='icon icon-cart']
+
+close modal window  //*[@id='sc-modal']//div[@class='close-x']
+
+
